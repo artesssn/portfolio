@@ -1,0 +1,34 @@
+<svg width="960" height="600" viewBox="0 0 960 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="600" rx="42" fill="url(#bg)"/>
+  <circle cx="186" cy="112" r="92" fill="#29D3C4" opacity="0.15"/>
+  <circle cx="806" cy="474" r="120" fill="#FF8B52" opacity="0.12"/>
+  <rect x="72" y="74" width="816" height="452" rx="34" fill="#0D182B" stroke="#29456E" stroke-width="2"/>
+  <path d="M132 168C204 112 290 128 358 176C424 222 476 236 560 210C658 180 718 188 822 262V474H132V168Z" fill="url(#map)"/>
+  <path d="M236 218C249.255 218 260 207.255 260 194C260 180.745 249.255 170 236 170C222.745 170 212 180.745 212 194C212 207.255 222.745 218 236 218Z" fill="#FF8B52"/>
+  <path d="M236 266L219.545 215H252.455L236 266Z" fill="#FF8B52"/>
+  <path d="M444 266C457.255 266 468 255.255 468 242C468 228.745 457.255 218 444 218C430.745 218 420 228.745 420 242C420 255.255 430.745 266 444 266Z" fill="#29D3C4"/>
+  <path d="M444 314L427.545 263H460.455L444 314Z" fill="#29D3C4"/>
+  <path d="M658 218C671.255 218 682 207.255 682 194C682 180.745 671.255 170 658 170C644.745 170 634 180.745 634 194C634 207.255 644.745 218 658 218Z" fill="#8A7CFF"/>
+  <path d="M658 266L641.545 215H674.455L658 266Z" fill="#8A7CFF"/>
+  <rect x="126" y="106" width="204" height="108" rx="22" fill="#102038" stroke="#2E4B73" stroke-width="2"/>
+  <rect x="154" y="136" width="120" height="14" rx="7" fill="#74FFF5"/>
+  <rect x="154" y="164" width="88" height="10" rx="5" fill="#45658E"/>
+  <rect x="154" y="184" width="132" height="10" rx="5" fill="#45658E"/>
+  <rect x="632" y="336" width="212" height="130" rx="26" fill="#12233E" stroke="#32527D" stroke-width="2"/>
+  <rect x="664" y="370" width="116" height="14" rx="7" fill="#FF8B52"/>
+  <rect x="664" y="398" width="146" height="10" rx="5" fill="#45658E"/>
+  <rect x="664" y="418" width="98" height="10" rx="5" fill="#45658E"/>
+  <rect x="364" y="344" width="216" height="116" rx="26" fill="#102038" stroke="#32527D" stroke-width="2"/>
+  <rect x="396" y="374" width="126" height="14" rx="7" fill="#29D3C4"/>
+  <rect x="396" y="402" width="156" height="10" rx="5" fill="#45658E"/>
+  <defs>
+    <linearGradient id="bg" x1="100" y1="56" x2="860" y2="558" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1424"/>
+      <stop offset="1" stop-color="#08101D"/>
+    </linearGradient>
+    <linearGradient id="map" x1="146" y1="176" x2="816" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11213A"/>
+      <stop offset="1" stop-color="#173055"/>
+    </linearGradient>
+  </defs>
+</svg>

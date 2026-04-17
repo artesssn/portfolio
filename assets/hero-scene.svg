@@ -1,0 +1,60 @@
+<svg width="960" height="760" viewBox="0 0 960 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="760" rx="48" fill="url(#bg)"/>
+  <circle cx="144" cy="154" r="110" fill="url(#glowA)" opacity="0.7"/>
+  <circle cx="766" cy="128" r="140" fill="url(#glowB)" opacity="0.45"/>
+  <circle cx="794" cy="598" r="170" fill="url(#glowC)" opacity="0.35"/>
+  <rect x="88" y="88" width="784" height="432" rx="30" fill="#0F1B31" stroke="#2A4368" stroke-width="2"/>
+  <rect x="88" y="88" width="784" height="52" rx="30" fill="#12233F"/>
+  <circle cx="126" cy="114" r="8" fill="#FF8B52"/>
+  <circle cx="152" cy="114" r="8" fill="#29D3C4"/>
+  <circle cx="178" cy="114" r="8" fill="#8A7CFF"/>
+  <rect x="122" y="176" width="254" height="306" rx="22" fill="#122440"/>
+  <rect x="404" y="176" width="420" height="122" rx="22" fill="#132744"/>
+  <rect x="404" y="320" width="198" height="162" rx="22" fill="#142B4B"/>
+  <rect x="626" y="320" width="198" height="162" rx="22" fill="#13233D"/>
+  <rect x="154" y="220" width="162" height="18" rx="9" fill="#29D3C4" opacity="0.8"/>
+  <rect x="154" y="258" width="188" height="12" rx="6" fill="#2B4265"/>
+  <rect x="154" y="286" width="154" height="12" rx="6" fill="#2B4265"/>
+  <rect x="154" y="314" width="178" height="12" rx="6" fill="#2B4265"/>
+  <rect x="154" y="346" width="114" height="52" rx="16" fill="#1A355D"/>
+  <rect x="286" y="346" width="56" height="52" rx="16" fill="#FF8B52" opacity="0.9"/>
+  <rect x="438" y="208" width="164" height="16" rx="8" fill="#74FFF5" opacity="0.8"/>
+  <rect x="438" y="240" width="296" height="12" rx="6" fill="#33537D"/>
+  <rect x="438" y="264" width="240" height="12" rx="6" fill="#33537D"/>
+  <path d="M478 410C478 366.922 512.922 332 556 332H602V482H556C512.922 482 478 447.078 478 404V410Z" fill="#29D3C4" opacity="0.86"/>
+  <circle cx="725" cy="402" r="54" fill="#FF8B52"/>
+  <path d="M712 378L742 402L712 426V378Z" fill="#0B1424"/>
+  <ellipse cx="478" cy="655" rx="172" ry="42" fill="#08111F" opacity="0.68"/>
+  <path d="M390 520C390 468.085 432.085 426 484 426C535.915 426 578 468.085 578 520V548H390V520Z" fill="#0B1526"/>
+  <circle cx="484" cy="388" r="62" fill="#162945"/>
+  <rect x="310" y="548" width="352" height="126" rx="34" fill="#0E1A2E"/>
+  <rect x="380" y="520" width="208" height="126" rx="26" fill="#1A335A"/>
+  <rect x="404" y="540" width="160" height="96" rx="18" fill="#0A1322"/>
+  <rect x="438" y="574" width="92" height="10" rx="5" fill="#29D3C4"/>
+  <rect x="438" y="596" width="74" height="10" rx="5" fill="#395980"/>
+  <rect x="438" y="618" width="102" height="10" rx="5" fill="#395980"/>
+  <rect x="664" y="184" width="166" height="94" rx="24" fill="#122643" stroke="#2A4368" stroke-width="2"/>
+  <rect x="692" y="214" width="88" height="14" rx="7" fill="#29D3C4"/>
+  <rect x="692" y="240" width="66" height="10" rx="5" fill="#45658E"/>
+  <rect x="70" y="516" width="190" height="118" rx="26" fill="#101F35" stroke="#274265" stroke-width="2"/>
+  <rect x="100" y="550" width="96" height="14" rx="7" fill="#FF8B52"/>
+  <rect x="100" y="578" width="126" height="10" rx="5" fill="#395980"/>
+  <defs>
+    <linearGradient id="bg" x1="112" y1="46" x2="842" y2="730" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1627"/>
+      <stop offset="1" stop-color="#08101D"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(144 154) rotate(90) scale(110)">
+      <stop stop-color="#29D3C4"/>
+      <stop offset="1" stop-color="#29D3C4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(766 128) rotate(90) scale(140)">
+      <stop stop-color="#8A7CFF"/>
+      <stop offset="1" stop-color="#8A7CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(794 598) rotate(90) scale(170)">
+      <stop stop-color="#FF8B52"/>
+      <stop offset="1" stop-color="#FF8B52" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
